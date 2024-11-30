@@ -1,0 +1,149 @@
+body{
+    margin-top: 50px;
+    font-family: "Poppins", sans-serif ;
+}
+div.menu-perfil{
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+img.menu{
+    width: 30px;
+}
+
+img.perfil{
+    width: 50px;
+}
+
+img.busca{
+    width: 30px;
+}
+
+h1{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 2rem;
+}
+
+h1 span{
+    font-weight: normal;
+    color: #888;
+}
+
+input{
+    margin:auto;
+    background-color: #F6F6F6;
+    display: block;
+    border-radius: 5px;
+    width: 90%;
+    height: 60px;
+    border: 0;
+}
+
+button{
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    border: 0;
+}
+
+img.button{
+    width: 25px;
+    height: 25px;
+}
+
+p.servicos{
+    font-size: 12px;
+}
+
+div.servicos{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 12px;
+}
+
+button.consultation{
+    background-color: #4485FD;
+}
+
+button.dental{
+    background-color: #A584FF;
+}
+
+button.heart{
+    background-color: #FF7854;
+}
+
+button.hospital{
+    background-color: #FEA725;
+}
+
+button.medicines{
+    background-color: #00CC6A;
+}
+
+button.physician{
+    background-color: #00C9E4;
+}
+
+button.skin{
+    background-color: #FD44B3;
+}
+
+button.surgeon{
+    background-color: #FD4444;
+}
+
+.top_doctors{
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+}
+.top_doctors a{    
+    text-decoration: none;
+    margin: auto;
+    color: blue;
+    border: 0;
+}
+
+img.dr{
+    width: 114px;
+    height: 104px;
+}
+
+div.dr{
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+}
+
+h5{
+    font-size: 12px;
+    font-weight: normal;
+    margin: auto;
+    border: 0;
+}
+p{
+    font-size: 15px;
+    margin: auto;
+    margin-top: 5px;
+}
+
+button.dr{
+    width: 60px;
+    height: 30px;
+    background-color: #CCF5E1;
+    color: #12CF74;
+}
+
+button.dr3{
+    width: 60px;
+    height: 30px;
+    background-color: #F7E4D9;
+    color: #D56A2F;
+}
